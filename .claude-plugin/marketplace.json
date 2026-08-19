@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "mb-al-ai-toolkit-cc",
+  "owner": {
+    "name": "Milos Baic",
+    "email": "milos.baic@outlook.com",
+    "url": "https://github.com/mbaic"
+  },
+  "metadata": {
+    "description": "Self-hosted marketplace for the MB AL AI Toolkit (Claude Code edition).",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "mb-al-ai-toolkit",
+      "source": "./",
+      "description": "Skills (also invocable as slash commands) and an autonomous agent for AL development in Microsoft Dynamics 365 Business Central Per-Tenant Extensions."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mb-al-ai-toolkit",
+  "displayName": "MB AL AI Toolkit",
+  "version": "1.0.0",
+  "description": "Skills (also invocable as slash commands) and an autonomous agent for AL development in Microsoft Dynamics 365 Business Central Per-Tenant Extensions.",
+  "author": {
+    "name": "Milos Baic",
+    "email": "milos.baic@outlook.com",
+    "url": "https://github.com/mbaic"
+  },
+  "homepage": "https://github.com/mbaic/mb-al-ai-toolkit-cc",
+  "repository": "https://github.com/mbaic/mb-al-ai-toolkit-cc",
+  "license": "MIT",
+  "keywords": [
+    "business-central",
+    "al",
+    "dynamics-365",
+    "pte",
+    "code-review",
+    "unit-tests",
+    "documentation",
+    "ai-toolkit"
+  ]
+}
